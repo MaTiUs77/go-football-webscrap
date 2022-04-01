@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"go-football-webscrap/src/scraping"
 
-	scraping "rest-gin/controller/scraping"
+	"github.com/gin-gonic/gin"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module rest-gin
+module go-football-webscrap
 
 go 1.18
 
